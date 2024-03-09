@@ -6,3 +6,7 @@
     font-size: 16px;
     color: #131318;
 }
+
+.carousel-arrow:hover path{
+    stroke: black;
+}
